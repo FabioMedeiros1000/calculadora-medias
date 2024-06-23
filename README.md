@@ -18,8 +18,8 @@ Este projeto consiste em uma calculadora de médias, que ajuda a determinar a si
 - **Tabela de Atividades**:
   - Após adicionar uma atividade, a tabela será preenchida com as informações fornecidas.
   - **Coluna Aprovado**:
-    - Exibe ![Ícone Aprovado](images/aprovado.png) se a nota for igual ou superior à nota mínima.
-    - Exibe ![Ícone Reprovado](images/reprovado.png) se a nota for inferior à nota mínima.
+    - Exibe <img src="images/aprovado.png" alt="Ícone Aprovado" width="20" height="20"> se a nota for igual ou superior à nota mínima.
+    - Exibe <img src="images/reprovado.png" alt="Ícone Reprovado" width="20" height="20"> se a nota for inferior à nota mínima.
 
 - **Cálculo da Média Final**:
   - A média final das notas fornecidas é calculada e atualizada à medida que novas atividades são cadastradas.
