@@ -18,8 +18,8 @@ Este projeto consiste em uma calculadora de médias, que ajuda a determinar a si
 - **Tabela de Atividades**:
   - Após adicionar uma atividade, a tabela será preenchida com as informações fornecidas.
   - **Coluna Aprovado**:
-    - Exibe um emoji de carinha feliz se a nota for igual ou superior à nota mínima.
-    - Exibe um emoji de carinha triste se a nota for inferior à nota mínima.
+    - Exibe ![Ícone Aprovado](images/aprovado.png) se a nota for igual ou superior à nota mínima.
+    - Exibe ![Ícone Reprovado](images/reprovado.png) se a nota for inferior à nota mínima.
 
 - **Cálculo da Média Final**:
   - A média final das notas fornecidas é calculada e atualizada à medida que novas atividades são cadastradas.
